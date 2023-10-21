@@ -9,7 +9,11 @@ hist(x)
 
 ## Sección 1
 
-Esto es un texto
+
+
+Esto es un texto $f(x)=x^2$ (sintaxis latex).
+
+$$x\sim N(0,\sigma^2)$$
 
 ## Sección 2
 
