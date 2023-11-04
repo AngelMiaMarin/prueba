@@ -21,9 +21,17 @@ Texto de prueba
 
 ## Sección 3
 
+
 |Id | Profession | Age |
 |-- | -- | -- |
 |1 | Statistician | 25 |
 |2 | Writer | 32 |
 
 
+## Enlaces e imágenes
+
+el enlace para este repositorio es [mi repositorio](https://github.com/AngelMiaMarin).
+
+ahora agrego una imagen del software git:
+ 
+![git](figuras/gitlogo.png)
