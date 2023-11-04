@@ -19,4 +19,11 @@ $$x\sim N(0,\sigma^2)$$
 
 Texto de prueba
 
+## Sección 3
+
+|Id | Profession | Age |
+|-- | -- | -- |
+|1 | Statistician | 25 |
+|2 | Writer | 32 |
+
 
